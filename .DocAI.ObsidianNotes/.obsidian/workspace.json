@@ -1,0 +1,273 @@
+{
+  "main": {
+    "id": "27bf16dca0e860f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2575caebe22fb5af",
+        "type": "tabs",
+        "dimension": 74.42455242966753,
+        "children": [
+          {
+            "id": "a437d84bc535d4ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05用户认证与安全设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05用户认证与安全设计"
+            },
+            "group": "6121d5df06f49f42"
+          },
+          {
+            "id": "0f18679b4e72ca40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06API网关设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06API网关设计"
+            }
+          },
+          {
+            "id": "9b6ddc52bef38d1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05用户认证与安全设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05用户认证与安全设计"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "06e296f0ee9fff40",
+        "type": "tabs",
+        "dimension": 25.575447570332482,
+        "children": [
+          {
+            "id": "2bd4d50dfddfbb19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05用户认证与安全设计.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "05用户认证与安全设计 的大纲"
+            },
+            "group": "6121d5df06f49f42"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "829272f53ae44334",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77b067e384d16fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719d7d119e2928c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bc9948f2bbde9101",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "2ce597bd3630d8a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "004370dbdbf99b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0695304ec6007d3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee64523215cd431a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04文件服务设计.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "04文件服务设计 的反向链接列表"
+            }
+          },
+          {
+            "id": "279b40d5b56ca96d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04文件服务设计.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "04文件服务设计 的出链列表"
+            }
+          },
+          {
+            "id": "bb8a8496ba732604",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f70c3bdf25adda66",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "79ba9eca8a221eca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04文件服务设计.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "04文件服务设计 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "9b6ddc52bef38d1f",
+  "lastOpenFiles": [
+    "06API网关设计.md",
+    "07消息队列设计.md",
+    "00resume.md",
+    "01微服务架构设计.md",
+    "05用户认证与安全设计.md",
+    "网关+服务双重安全配置.md",
+    "CSRF 攻击.md",
+    "RefreshToken.md",
+    "微服务架构存在的用户认证问题.md",
+    "04文件服务设计.md",
+    "事件驱动.md",
+    "策略模式 + 多层抽象.md",
+    "本地开发_生产分布式.md",
+    "分布式对象存储.md",
+    "生产分布式.md",
+    "().md",
+    "桶名.md",
+    "03AI Agent设计.md",
+    "AgentProgressBroadcaster 广播事件.md",
+    "WebSocket.md",
+    "Redis TTL 短期持久化.md",
+    "Agent 任务快照.md",
+    "key 前缀 ctx.md",
+    "模型生成的 JSON 计划可能缺参/类型错误/工具名错误.md",
+    "未命名",
+    "02RAG知识库设计.md",
+    "模型生成的 JSON 计划可能缺参/类型错误",
+    "模型生成的 JSON 计划可能缺参",
+    "三种入口.md",
+    "Pasted image 20260620124715.png"
+  ]
+}
