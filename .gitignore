@@ -36,3 +36,6 @@ build/
 
 ### Obsidian Notes ###
 .DocAI.ObsidianNotes/
+
+### Scripts ###
+scripts/rewrite-author.ps1

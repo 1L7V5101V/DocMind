@@ -51,7 +51,7 @@ public class OpenAIAIService implements AIService {
             message.put("content", prompt);
 
             Map<String, Object> requestBody = new HashMap<>();
-            requestBody.put("model", modelType.getCode());
+            requestBody.put("model", "deepseek-v4-flash");
             requestBody.put("messages", new Object[]{message});
 
             HttpEntity<Map<String, Object>> entity = new HttpEntity<>(requestBody, headers);

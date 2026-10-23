@@ -63,7 +63,7 @@ spring:
         api-key: ${DASHSCOPE_API_KEY}
     openai:
       api-key: ${OPENAI_API_KEY}
-      base-url: ${OPENAI_BASE_URL:https://coding.dashscope.aliyuncs.com/v1}
+      base-url: ${OPENAI_BASE_URL:https://opencode.ai/zen/go/v1}
 
   rabbitmq:
     host: ${RABBITMQ_HOST:infra_rabbitmq}
@@ -110,19 +110,19 @@ ai:
     openai:
       qwen3.6-plus:
         api-key: ${OPENAI_API_KEY}
-        base-url: ${OPENAI_BASE_URL:https://coding.dashscope.aliyuncs.com/v1}
+        base-url: ${OPENAI_BASE_URL:https://opencode.ai/zen/go/v1}
         enabled: true
       glm-5:
         api-key: ${OPENAI_API_KEY}
-        base-url: ${OPENAI_BASE_URL:https://coding.dashscope.aliyuncs.com/v1}
+        base-url: ${OPENAI_BASE_URL:https://opencode.ai/zen/go/v1}
         enabled: true
       kimi-k2.5:
         api-key: ${OPENAI_API_KEY}
-        base-url: ${OPENAI_BASE_URL:https://coding.dashscope.aliyuncs.com/v1}
+        base-url: ${OPENAI_BASE_URL:https://opencode.ai/zen/go/v1}
         enabled: true
       MiniMax-M2.5:
         api-key: ${OPENAI_API_KEY}
-        base-url: ${OPENAI_BASE_URL:https://coding.dashscope.aliyuncs.com/v1}
+        base-url: ${OPENAI_BASE_URL:https://opencode.ai/zen/go/v1}
         enabled: true
 
 # MinIO配置
